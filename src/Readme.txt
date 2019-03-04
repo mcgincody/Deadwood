@@ -1,0 +1,1 @@
+To run the game, go into the "Play Deadwood" folder and run the batch file.
